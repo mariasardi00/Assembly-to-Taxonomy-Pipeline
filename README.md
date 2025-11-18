@@ -29,4 +29,4 @@ Executes Upload_AssemblyRun_to_Container.py to store outputs in a designated con
 * Automated renaming and organization of output files.
 * Scalable with configurable thread usage.
 
-**Check WIKI for instructions on how to run it**
+# Check Wiki for instructions on how to run it
